@@ -1,0 +1,16 @@
+D:\VS\QArepo\SeleniumZero\SeleniumZero\bin\Debug\netcoreapp3.1\SeleniumZero.exe
+D:\VS\QArepo\SeleniumZero\SeleniumZero\bin\Debug\netcoreapp3.1\SeleniumZero.deps.json
+D:\VS\QArepo\SeleniumZero\SeleniumZero\bin\Debug\netcoreapp3.1\SeleniumZero.runtimeconfig.json
+D:\VS\QArepo\SeleniumZero\SeleniumZero\bin\Debug\netcoreapp3.1\SeleniumZero.runtimeconfig.dev.json
+D:\VS\QArepo\SeleniumZero\SeleniumZero\bin\Debug\netcoreapp3.1\SeleniumZero.dll
+D:\VS\QArepo\SeleniumZero\SeleniumZero\bin\Debug\netcoreapp3.1\SeleniumZero.pdb
+D:\VS\QArepo\SeleniumZero\SeleniumZero\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\VS\QArepo\SeleniumZero\SeleniumZero\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\VS\QArepo\SeleniumZero\SeleniumZero\obj\Debug\netcoreapp3.1\SeleniumZero.csproj.AssemblyReference.cache
+D:\VS\QArepo\SeleniumZero\SeleniumZero\obj\Debug\netcoreapp3.1\SeleniumZero.AssemblyInfoInputs.cache
+D:\VS\QArepo\SeleniumZero\SeleniumZero\obj\Debug\netcoreapp3.1\SeleniumZero.AssemblyInfo.cs
+D:\VS\QArepo\SeleniumZero\SeleniumZero\obj\Debug\netcoreapp3.1\SeleniumZero.csproj.CoreCompileInputs.cache
+D:\VS\QArepo\SeleniumZero\SeleniumZero\obj\Debug\netcoreapp3.1\SeleniumZero.csproj.CopyComplete
+D:\VS\QArepo\SeleniumZero\SeleniumZero\obj\Debug\netcoreapp3.1\SeleniumZero.dll
+D:\VS\QArepo\SeleniumZero\SeleniumZero\obj\Debug\netcoreapp3.1\SeleniumZero.pdb
+D:\VS\QArepo\SeleniumZero\SeleniumZero\obj\Debug\netcoreapp3.1\SeleniumZero.genruntimeconfig.cache
